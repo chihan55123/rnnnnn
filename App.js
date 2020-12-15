@@ -176,7 +176,7 @@ resetGame = ()=>{
           {this.state.isEnded ? 
             <TouchableOpacity onPress={this.resetGame} style = {styles.tryAgainButton}>
 
-              <Text style={styles.tryAgainButtonText}>再一次</Text> 
+              <Text style={styles.tryAgainButtonText}>再一次拉幹</Text> 
             </TouchableOpacity>  
          
             
